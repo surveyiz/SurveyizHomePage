@@ -53,7 +53,7 @@ h6 {
 }
 
 .navbar .active {
-	color: #004d00 !important;
+	color: #002c4d !important;
 }
 
 .navbar .navbar-brand {}
@@ -71,7 +71,7 @@ h6 {
 }
 
 .navbar .nav-item a:hover {
-	color: #004d00;
+	color: #002c4d;
 }
 
 .navbar .nav-link {
